@@ -33,79 +33,66 @@
       "/gallery_3.jpg",
       "/gallery_4.jpg"
     ],
-    "music": [
-      {
-        "title": "Lebanese Freestyle",
-        "artist": "Lkay80m",
-        "cover": "https://r2.fivemanage.com/DUNhWslo4ek1jd7v2440M/wavy_with_30.jpg",
-        "src": "https://r2.fivemanage.com/pQDXT5XTvxJyabRIpqX43/Lkay80m-LebaneseFreestyle(Officialmusicvideo)-Lkay80m(1080ph264).mp4"
-      },
-
-      {
-        "title": "FOREVER 29",
-        "artist": "D-Block Europe (Young Adz)",
-        "cover": "https://r2.fivemanage.com/DUNhWslo4ek1jd7v2440M/wavy_with_30.jpg",
-        "src": "https://r2.fivemanage.com/pQDXT5XTvxJyabRIpqX43/D-BlockEurope(YoungAdz)FOREVER29OfficialVideo-DBlockEuropeTV(1080ph264).mp4"
-      },
-      {
-        "title": "Cali Coughing",
-        "artist": "Hzino x Smurky",
-        "cover": "https://docs.thefiveboroughs.net/ab67616d00001e02e4487f9e1732dad6679c640c.jpg",
-        "src": "https://r2.fivemanage.com/pQDXT5XTvxJyabRIpqX43/HzinoxSmurky-CaliCoughing(OfficialVideo)-STREETFLOWLTD(1080ph264).mp4"
-      },
-      {
-        "title": "Bezerk",
-        "artist": "Paperboytripz",
-        "cover": "https://docs.thefiveboroughs.net/artworks-dhRpbabkSfAl-0-t500x500.jpg",
-        "src": "https://r2.fivemanage.com/pQDXT5XTvxJyabRIpqX43/Paperboytripz-Bezerk(OfficialMusicVideo)-Paperboytripz(1080ph264).mp4"
-      },
-      {
-        "title": "Can't Complain",
-        "artist": "Beezo X 1Strikaa",
-        "cover": "https://docs.thefiveboroughs.net/1200x630bb.jpg",
-        "src": "https://r2.fivemanage.com/pQDXT5XTvxJyabRIpqX43/Beezo1Strikaa-Can'tComplainFreestyle-MotionHeals(1080ph264).mp4"
-      },
-      
-      {
-        "title": "Slime",
-        "artist": "M12 x Felly (OM)",
-        "cover": "https://docs.thefiveboroughs.net/ab67616d00001e02cbc8cd8146f7ffa9213cfb38.jpg",
-        "src": "https://r2.fivemanage.com/pQDXT5XTvxJyabRIpqX43/M12xFelly(OM)-SlimeMusicVideoGRMDaily-GRMDaily(1080ph264).mp4"
-      },
-
-            {
-        "title": "Gravedigga",
-        "artist": "Suspect AGB",
-        "cover": "https://docs.thefiveboroughs.net/ab67616d00001e02cbc8cd8146f7ffa9213cfb38.jpg",
-        "src": "https://r2.fivemanage.com/pQDXT5XTvxJyabRIpqX43/SuspectAGB-GravediggaOfficialVisualisers-SuspectAGB(1080ph264).mp4"
-      },
-
-            {
-        "title": "S680",
-        "artist": "FZ",
-        "cover": "https://docs.thefiveboroughs.net/ab67616d00001e02cbc8cd8146f7ffa9213cfb38.jpg",
-        "src": "https://r2.fivemanage.com/pQDXT5XTvxJyabRIpqX43/FZ-S680-FZTW3(1080ph264).mp4"
-      },
-      
-      {
-        "title": "Codeine Therapy",
-        "artist": "Blocboy 27",
-        "cover": "https://docs.thefiveboroughs.net/ab67616d0000b273e6173a99afa6b707cc56b909.jpg",
-        "src": "https://r2.fivemanage.com/pQDXT5XTvxJyabRIpqX43/Blocboy27-CodeineTherapy(officialvisualiser)-BlocBoy27(1080ph264).mp4"
-      },
-
-      {
-        "title": "Keeping It Real",
-        "artist": "Trigz HRB",
-        "cover": "https://docs.thefiveboroughs.net/ab67616d0000b273e6173a99afa6b707cc56b909.jpg",
-        "src": "https://r2.fivemanage.com/pQDXT5XTvxJyabRIpqX43/TrigzHRB-KeepingItRealMusicVideoGRMDaily-GRMDaily(1080ph264).mp4"
-      },
-
-      {
-        "title": "Overtime",
-        "artist": "Lil Zino",
-        "cover": "https://docs.thefiveboroughs.net/ab67616d0000b273e6173a99afa6b707cc56b909.jpg",
-        "src": "https://r2.fivemanage.com/pQDXT5XTvxJyabRIpqX43/videoplayback.mp4"
-      }
-    ]
+"music": [
+  {
+    "title": "Lebanese Freestyle",
+    "artist": "Lkay80m",
+    "cover": "https://r2.fivemanage.com/DUNhWslo4ek1jd7v2440M/wavy_with_30.jpg",
+    "src": "https://cdn.discordapp.com/attachments/1249846436863148113/1476126510829277246/Lkay80m_-_Lebanese_Freestyle_Official_music_video_-_Lkay80m_1080p_h264.mp4"
+  },
+  {
+    "title": "FOREVER 29",
+    "artist": "D-Block Europe (Young Adz)",
+    "cover": "https://r2.fivemanage.com/DUNhWslo4ek1jd7v2440M/wavy_with_30.jpg",
+    "src": "https://cdn.discordapp.com/attachments/1249846436863148113/1476126508580999199/D-Block_Europe_Young_Adz_FOREVER_29_Official_Video_-_D_Block_Europe_TV_1080p_h264.mp4"
+  },
+  {
+    "title": "Cali Coughing",
+    "artist": "Hzino x Smurky",
+    "cover": "https://docs.thefiveboroughs.net/ab67616d00001e02e4487f9e1732dad6679c640c.jpg",
+    "src": "https://cdn.discordapp.com/attachments/1249846436863148113/1476126504747401216/Hzino_x_Smurky_-_Cali_Coughing_Official_Video_-_STREETFLOW_LTD_1080p_h264.mp4"
+  },
+  {
+    "title": "Bezerk",
+    "artist": "Paperboytripz",
+    "cover": "https://docs.thefiveboroughs.net/artworks-dhRpbabkSfAl-0-t500x500.jpg",
+    "src": "https://cdn.discordapp.com/attachments/1249846436863148113/1476126502255853699/Paperboytripz_-_Bezerk_Official_Music_Video_-_Paperboytripz_1080p_h264.mp4"
+  },
+  {
+    "title": "Can't Complain",
+    "artist": "Beezo X 1Strikaa",
+    "cover": "https://docs.thefiveboroughs.net/1200x630bb.jpg",
+    "src": "https://cdn.discordapp.com/attachments/1249846436863148113/1476126498653208717/Beezo__1Strikaa_-_Cant_Complain_Freestyle_-_Motion_Heals_1080p_h264.mp4"
+  },
+  {
+    "title": "Slime",
+    "artist": "M12 x Felly (OM)",
+    "cover": "https://docs.thefiveboroughs.net/ab67616d00001e02cbc8cd8146f7ffa9213cfb38.jpg",
+    "src": "https://cdn.discordapp.com/attachments/1249846436863148113/1476126493653471272/M12_x_Felly_OM_-_Slime_Music_Video_GRM_Daily_-_GRM_Daily_1080p_h264.mp4"
+  },
+  {
+    "title": "Gravedigga",
+    "artist": "Suspect AGB",
+    "cover": "https://docs.thefiveboroughs.net/ab67616d00001e02cbc8cd8146f7ffa9213cfb38.jpg",
+    "src": "https://cdn.discordapp.com/attachments/1249846436863148113/1476126491942322206/Suspect_AGB_-_Gravedigga_Official_Visualisers_-_Suspect_AGB_1080p_h264.mp4"
+  },
+  {
+    "title": "S680",
+    "artist": "FZ",
+    "cover": "https://docs.thefiveboroughs.net/ab67616d00001e02cbc8cd8146f7ffa9213cfb38.jpg",
+    "src": "https://cdn.discordapp.com/attachments/1249846436863148113/1476126490272727162/FZ_-_S680_-_FZ_TW3_1080p_h264.mp4"
+  },
+  {
+    "title": "Codeine Therapy",
+    "artist": "Blocboy 27",
+    "cover": "https://docs.thefiveboroughs.net/ab67616d0000b273e6173a99afa6b707cc56b909.jpg",
+    "src": "https://cdn.discordapp.com/attachments/1249846436863148113/1476126489157173363/Blocboy_27_-_Codeine_Therapy_official_visualiser_-_BlocBoy27_1080p_h264.mp4"
+  },
+  {
+    "title": "Keeping It Real",
+    "artist": "Trigz HRB",
+    "cover": "https://docs.thefiveboroughs.net/ab67616d0000b273e6173a99afa6b707cc56b909.jpg",
+    "src": "https://cdn.discordapp.com/attachments/1249846436863148113/1476126486644916245/Trigz_HRB_-_Keeping_It_Real_Music_Video_GRM_Daily_-_GRM_Daily_1080p_h264.mp4"
+  }
+]
   }
