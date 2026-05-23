@@ -1,105 +1,107 @@
 {
-    "serverName": "The Ends Roleplay 2.0",
-    "description": "The Ends Roleplay is a serious FiveM roleplay server founded by Slimey Sl1me & MK.",
-    "discordUrl": "https://discord.gg/theends",
-    "tebexUrl": "the-ends-roleplay.tebex.io",
-    "discordCard": {
-      "title": "DISCORD SERVER",
-      "description": "Make sure you are in the The Ends Roleplay Discord. Connect, compete, and stay in the loop with the community!",
-      "url": "https://discord.gg/theends"
-    },
-    "team": [
-      {
-        "name": "Slimey Sl1me",
-        "role": "Founder",
-        "avatar": "https://r2.fivemanage.com/pQDXT5XTvxJyabRIpqX43/972038654ad9035b86fe7d75981be5c5.jpg"
-      },
-    ],
-    "rules": [
-      "No metagaming: Don't use out-of-character info to influence your in-character actions.",
-      "No powergaming: Don't force actions on others or do unrealistic things your character couldn't do.",
-      "No combat logging: Don't log out during active situations like fights or arrests.",
-      "Respect character roles: Don't act like a cop, medic, or other role unless your character is one.",
-      "Value your life: Don't do reckless things your character wouldn't risk without strong reason."
-    ],
-    "gallery": [
-      "https://media.discordapp.net/attachments/1343451660491558932/1471872030688415866/image.png?ex=69ac32a6&is=69aae126&hm=b72caf90d97ae8f023ebe663d2b71fa992b42a36651f5062cf730c131e05b172&=&format=webp&quality=lossless&width=1523&height=856",
-      "https://media.discordapp.net/attachments/1343451660491558932/1471364339775836191/Screenshot_2026-02-12_043352.png?ex=69ac5413&is=69ab0293&hm=a9ba0cfa7e35f0f5cf6f3c5ce249afda5da555878ae0653cea9f76c4fa60d0f6&=&format=webp&quality=lossless&width=1523&height=856",
-      "https://media.discordapp.net/attachments/1343451660491558932/1470587391977852959/image.png?ex=69accc3c&is=69ab7abc&hm=aa12d558e522a9c86744bd65fcd9c2e69598522d7f617665194c77a2e726d1e8&=&format=webp&quality=lossless&width=1523&height=856",
-      "https://media.discordapp.net/attachments/1343451660491558932/1469742363617263666/Screenshot_2026-02-05_160643.png?ex=69ac5c3d&is=69ab0abd&hm=4df5482426d3bcd1f33565ca8a6a8c7135c1fd416ef6a3ab319502770e92441e&=&format=webp&quality=lossless&width=1523&height=856"
-    ],
-"music": [
-  {
-    "title": "Lizzy",
-    "artist": "Hzino",
-    "cover": "https://i.scdn.co/image/ab67616d00001e026f92db8415ff0516e846e947",
-    "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/HZINO-%20LIZZY%20STUDIO%20FREESTYLE%20EP%201%20(OFFICIAL%20VIDEO)_1080p%20(1).mp4"
+  "serverName": "The Ends Roleplay 2.0",
+  "description": "The Ends Roleplay is a serious FiveM roleplay server founded by Slimey Sl1me & MK.",
+  "discordUrl": "https://discord.gg/theends",
+  "tebexUrl": "https://store.theendsroleplay.com",
+
+  "discordCard": {
+    "title": "DISCORD SERVER",
+    "description": "Make sure you are in the The Ends Roleplay Discord. Connect, compete, and stay in the loop with the community!",
+    "url": "https://discord.gg/theends"
   },
 
-{
-    "title": "Allegedly",
-    "artist": "Lil Zino",
-    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj8U6Cy-cNJlNCTTUZQ0q5jG-TDFx_J-8dmA&s",
-    "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/Lil%20Zino%20-%20Allegedly%20(Official%20Video)_1080p.mp4"
-  },
+  "team": [
+    {
+      "name": "Slimey Sl1me",
+      "role": "Founder",
+      "avatar": "https://r2.fivemanage.com/pQDXT5XTvxJyabRIpqX43/972038654ad9035b86fe7d75981be5c5.jpg"
+    }
+  ],
+
+  "rules": [
+    "No metagaming: Don't use out-of-character info to influence your in-character actions.",
+    "No powergaming: Don't force actions on others or do unrealistic things your character couldn't do.",
+    "No combat logging: Don't log out during active situations like fights or arrests.",
+    "Respect character roles: Don't act like a cop, medic, or other role unless your character is one.",
+    "Value your life: Don't do reckless things your character wouldn't risk without strong reason."
+  ],
+
+  "gallery": [
+    "https://media.discordapp.net/attachments/1343451660491558932/1471872030688415866/image.png?ex=69ac32a6&is=69aae126&hm=b72caf90d97ae8f023ebe663d2b71fa992b42a36651f5062cf730c131e05b172&=&format=webp&quality=lossless&width=1523&height=856",
+    "https://media.discordapp.net/attachments/1343451660491558932/1471364339775836191/Screenshot_2026-02-12_043352.png?ex=69ac5413&is=69ab0293&hm=a9ba0cfa7e35f0f5cf6f3c5ce249afda5da555878ae0653cea9f76c4fa60d0f6&=&format=webp&quality=lossless&width=1523&height=856",
+    "https://media.discordapp.net/attachments/1343451660491558932/1470587391977852959/image.png?ex=69accc3c&is=69ab7abc&hm=aa12d558e522a9c86744bd65fcd9c2e69598522d7f617665194c77a2e726d1e8&=&format=webp&quality=lossless&width=1523&height=856",
+    "https://media.discordapp.net/attachments/1343451660491558932/1469742363617263666/Screenshot_2026-02-05_160643.png?ex=69ac5c3d&is=69ab0abd&hm=4df5482426d3bcd1f33565ca8a6a8c7135c1fd416ef6a3ab319502770e92441e&=&format=webp&quality=lossless&width=1523&height=856"
+  ],
+
+  "music": [
+    {
+      "title": "Lizzy",
+      "artist": "Hzino",
+      "cover": "https://i.scdn.co/image/ab67616d00001e026f92db8415ff0516e846e947",
+      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/HZINO-%20LIZZY%20STUDIO%20FREESTYLE%20EP%201%20(OFFICIAL%20VIDEO)_1080p%20(1).mp4"
+    },
 
     {
-    "title": "No Fly Zone",
-    "artist": "Motion Heals, 1Strikka, Beezo",
-    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHABk5w8nXy1EvsmhqjUt2rWNekBAIt0exDA&s",
-    "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/Beezo%20x%201Strikaa%20-%20No%20Fly%20Zone%20(Official%20Video)_1080p.mp4"
-  },
+      "title": "Allegedly",
+      "artist": "Lil Zino",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj8U6Cy-cNJlNCTTUZQ0q5jG-TDFx_J-8dmA&s",
+      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/Lil%20Zino%20-%20Allegedly%20(Official%20Video)_1080p.mp4"
+    },
 
-{
-    "title": "Yeah Baby",
-    "artist": "D Block Europe Young Adz",
-    "cover": "https://i.scdn.co/image/ab67616d00001e029f12296268c9221ff998bb3b",
-    "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/D-Block%20Europe%20(Young%20Adz)%20YEAH%20BABY%20%5BOfficial%20Video%5D_1080p.mp4"
-  },
-    
-  {
-    "title": "Bodycam Remix",
-    "artist": "RR Jooka, Foreign Muli, Mbizz",
-    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-jyIFJpxCPG2AUz0iE5v_iQ5vl1II2Ov5rA&s",
-    "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/%23RR%20JOOKA%20-%20BODYCAM%20RREMIX%20ft%20FOREIGN%20MULI%20X%20MBIZZ_1080p.mp4"
-  },
-  {
-    "title": "Hypebeast",
-    "artist": "Lkay80m",
-    "cover": "https://i.scdn.co/image/ab67616d0000b27316295c4dd944738deaa841b2",
-    "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/Lkay80m%20-%20Hypebeast%20(Official%20Music%20Video)_1080p.mp4"
-  },
-  {
-    "title": "Top of The Hill",
-    "artist": "Shuuds",
-    "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4FyQ05gRu_hqjEBJTdvgo9JhTN-6q8ZNYUA&s",
-    "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/Shuuds%20-%20Top%20Of%20The%20Hill%20(Official%20Video)_1080p.mp4"
-  },
+    {
+      "title": "No Fly Zone",
+      "artist": "Motion Heals, 1Strikka, Beezo",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHABk5w8nXy1EvsmhqjUt2rWNekBAIt0exDA&s",
+      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/Beezo%20x%201Strikaa%20-%20No%20Fly%20Zone%20(Official%20Video)_1080p.mp4"
+    },
 
+    {
+      "title": "Yeah Baby",
+      "artist": "D Block Europe Young Adz",
+      "cover": "https://i.scdn.co/image/ab67616d00001e029f12296268c9221ff998bb3b",
+      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/D-Block%20Europe%20(Young%20Adz)%20YEAH%20BABY%20%5BOfficial%20Video%5D_1080p.mp4"
+    },
 
+    {
+      "title": "Bodycam Remix",
+      "artist": "RR Jooka, Foreign Muli, Mbizz",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-jyIFJpxCPG2AUz0iE5v_iQ5vl1II2Ov5rA&s",
+      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/%23RR%20JOOKA%20-%20BODYCAM%20RREMIX%20ft%20FOREIGN%20MULI%20X%20MBIZZ_1080p.mp4"
+    },
 
+    {
+      "title": "Hypebeast",
+      "artist": "Lkay80m",
+      "cover": "https://i.scdn.co/image/ab67616d0000b27316295c4dd944738deaa841b2",
+      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/Lkay80m%20-%20Hypebeast%20(Official%20Music%20Video)_1080p.mp4"
+    },
 
+    {
+      "title": "Top of The Hill",
+      "artist": "Shuuds",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4FyQ05gRu_hqjEBJTdvgo9JhTN-6q8ZNYUA&s",
+      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/Shuuds%20-%20Top%20Of%20The%20Hill%20(Official%20Video)_1080p.mp4"
+    },
 
-  {
-    "title": "Cell 22",
-    "artist": "E1 3x3 (ALG)",
-    "cover": "https://images.genius.com/220f71e6d8bbe071a4eb893768e7e594.500x500x1.jpg",
-    "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/E1%20(3x3)%20-%20Cell%2022%20%23ALG_1080p.mp4"
-  },
+    {
+      "title": "Cell 22",
+      "artist": "E1 3x3 (ALG)",
+      "cover": "https://images.genius.com/220f71e6d8bbe071a4eb893768e7e594.500x500x1.jpg",
+      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/E1%20(3x3)%20-%20Cell%2022%20%23ALG_1080p.mp4"
+    },
 
+    {
+      "title": "Fast 4 Me",
+      "artist": "Hzino",
+      "cover": "https://i.ytimg.com/vi/LXwEhV86-0g/hqdefault.jpg",
+      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/videoplayback%20(6).mp4"
+    },
 
-      {
-    "title": "Fast 4 Me",
-    "artist": "Hzino",
-    "cover": "https://i.ytimg.com/vi/LXwEhV86-0g/hqdefault.jpg",
-    "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/videoplayback%20(6).mp4"
-  },
-    
-      {
-    "title": "11000 Sq Ft",
-    "artist": "Fz",
-    "cover": "https://i.scdn.co/image/ab67616d0000b273cc1426a012a97917a5c7e2a4",
-    "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/videoplayback%20(5).mp4"
-  }
-]
-  }
+    {
+      "title": "11000 Sq Ft",
+      "artist": "Fz",
+      "cover": "https://i.scdn.co/image/ab67616d0000b273cc1426a012a97917a5c7e2a4",
+      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/videoplayback%20(5).mp4"
+    }
+  ]
+}
