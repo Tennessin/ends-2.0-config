@@ -34,6 +34,15 @@
   ],
 
   "music": [
+
+        {
+      "title": "Intro",
+      "artist": "Lil O",
+      "cover": "https://i.ytimg.com/vi/0dXXExcX4uo/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGEcgZShjMA8=&rs=AOn4CLAsGP57sxkdlqHtevhtaS17rnWwnw",
+      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/YTMP3GG_YouTube_Lil-O-Intro_Media_0dXXExcX4uo_001_1080p.mp4"
+    },
+
+    
     {
       "title": "Lizzy",
       "artist": "Hzino",
@@ -84,10 +93,10 @@
     },
 
     {
-      "title": "Cell 22",
-      "artist": "E1 3x3 (ALG)",
-      "cover": "https://images.genius.com/220f71e6d8bbe071a4eb893768e7e594.500x500x1.jpg",
-      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/E1%20(3x3)%20-%20Cell%2022%20%23ALG_1080p.mp4"
+      "title": "OOOWE",
+      "artist": "Hzino",
+      "cover": "https://resources.tidal.com/images/ac833f58/d86b/444e/b0ef/a24e7a29c43c/750x750.jpg",
+      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/YTMP3GG_YouTube_HZINO-OOOWE-STUDIO-FREESTYLE-EP-2-OFFICI_Media_z_irPa7PBV0_001_1080p.mp4"
     },
 
     {
@@ -96,6 +105,8 @@
       "cover": "https://i.ytimg.com/vi/LXwEhV86-0g/hqdefault.jpg",
       "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/videoplayback%20(6).mp4"
     },
+
+    
 
     {
       "title": "11000 Sq Ft",
