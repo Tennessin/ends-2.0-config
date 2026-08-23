@@ -1,5 +1,5 @@
 {
-  "serverName": "The Ends Roleplay 3.0",
+  "serverName": "The Ends Roleplay 3.0 (Beta Build)",
   "description": "The Ends Roleplay is a serious FiveM roleplay server founded by Slimey Sl1me & MK.",
   "discordUrl": "https://discord.gg/theends",
   "tebexUrl": "https://store.theendsroleplay.com",
@@ -14,7 +14,7 @@
     {
       "name": "Slimey Sl1me",
       "role": "Founder",
-      "avatar": "https://r2.fivemanage.com/pQDXT5XTvxJyabRIpqX43/972038654ad9035b86fe7d75981be5c5.jpg"
+      "avatar": "https://scontent-cph2-1.cdninstagram.com/v/t51.82787-19/730152976_18128791600623467_2251314298270272254_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_cat=106&ccb=7-5&_nc_sid=f7ccc5&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=ueHZhwPglCcQ7kNvwEMFcfe&_nc_oc=AdpddfLbkfJOl3MPUxyVRu-HJXgX3EAZjxzPUmdYv733G8Atz371WVgrZPlL_qlAWRQ&_nc_zt=24&_nc_ht=scontent-cph2-1.cdninstagram.com&_nc_gid=-3P-kSXKsMgXvrG7IGQpvQ&_nc_ss=7b6a8&oh=00_AQGa5lEd_0gcPprMZ788R_K0s-m4JFc5TDS2bf9Gd7yCEQ&oe=6A9117C8"
     }
   ],
 
@@ -35,77 +35,51 @@
 
   "music": [
 
+    
+    {
+      "title": "2 da Curb",
+      "artist": "Hzino",
+      "cover": "https://i.scdn.co/image/ab6761610000e5eb35835ab813f09a631f58acb6",
+      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/2dacurb.mp4"
+    },
+
         {
-      "title": "Intro",
-      "artist": "Lil O",
-      "cover": "https://i.ytimg.com/vi/0dXXExcX4uo/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGEcgZShjMA8=&rs=AOn4CLAsGP57sxkdlqHtevhtaS17rnWwnw",
-      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/YTMP3GG_YouTube_Lil-O-Intro_Media_0dXXExcX4uo_001_1080p.mp4"
+      "title": "Okay",
+      "artist": "Hzino",
+      "cover": "https://i.scdn.co/image/ab6761610000e5eb35835ab813f09a631f58acb6",
+      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/okay.mp4"
     },
+
+            {
+      "title": "Dirty Lyfe",
+      "artist": "Hzino",
+      "cover": "https://i.scdn.co/image/ab6761610000e5eb35835ab813f09a631f58acb6",
+      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/dirtylyfe.mp4"
+    },
+
+
+                {
+      "title": "Uptown",
+      "artist": "Chy Cartier & Loski",
+      "cover": "https://i1.sndcdn.com/artworks-RlCfbtZgipgB-0-t500x500.jpg",
+      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/Loski%20%26%20Chy%20Cartier%20-%20Uptown%20%5BOfficial%20Music%20Video%5D%20%40LoskiOfficial%20%40CHYCARTIER%20%23Uptown%20-%20Loski%20Official%20(1080p).mp4"
+    },
+
+                    {
+      "title": "Swimming",
+      "artist": "Busygrr",
+      "cover": "https://m.media-amazon.com/images/I/41sbux6ZJ-L._SX354_SY354_BL0_QL100__UXNaN_FMjpg_QL85_.jpg",
+      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/BusyGrr%20-%20Swimming%20-%20BusyGrr%20(1080p).mp4"
+    },
+
 
     
-    {
-      "title": "Lizzy",
-      "artist": "Hzino",
-      "cover": "https://i.scdn.co/image/ab67616d00001e026f92db8415ff0516e846e947",
-      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/HZINO-%20LIZZY%20STUDIO%20FREESTYLE%20EP%201%20(OFFICIAL%20VIDEO)_1080p%20(1).mp4"
+                {
+      "title": "Slap me (Ukpoo)",
+      "artist": "Random Black Ting",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Uxd3hwtB7TqbcQhQZGcxdV6fhRcEDa_x06PIdo6VrQ&s",
+      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/Savvy%20-%20Slap%20Me%20Again%20(Official%20Music%20Video)%20-%20Savvy%20(%20(1012p).mp4"
     },
 
-    {
-      "title": "Allegedly",
-      "artist": "Lil Zino",
-      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj8U6Cy-cNJlNCTTUZQ0q5jG-TDFx_J-8dmA&s",
-      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/Lil%20Zino%20-%20Allegedly%20(Official%20Video)_1080p.mp4"
-    },
-
-    {
-      "title": "No Mannerz",
-      "artist": "YB5HUNNA x ABZ1UP5",
-      "cover": "https://i.ytimg.com/vi/HXLgcfvVjJo/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBsDqecTNzb9ebaxpkLZU0EvMBqug",
-      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/YB5HUNNA%20x%20ABZ1UP5%20-%20NO%20MANNERZ%20(%20OFFICIAL%20MUSIC%20VIDEO)%20-%20STREETFLOW%20LTD%20(1080p).mp4"
-    },
-
-    {
-      "title": "Yeah Baby",
-      "artist": "D Block Europe Young Adz",
-      "cover": "https://i.scdn.co/image/ab67616d00001e029f12296268c9221ff998bb3b",
-      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/D-Block%20Europe%20(Young%20Adz)%20YEAH%20BABY%20%5BOfficial%20Video%5D_1080p.mp4"
-    },
-
-    {
-      "title": "Live Large",
-      "artist": "Zinii",
-      "cover": "https://i.scdn.co/image/ab67616d0000b2737857a4ff22fd9c2aee7fb59b",
-      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/Zinii%20-%20Live%20Large%20(Official%20Music%20Video)%20Reupload%20-%20waveoverdrill%20(1080p).mp4"
-    },
-
-    {
-      "title": "Hypebeast",
-      "artist": "Lkay80m",
-      "cover": "https://i.scdn.co/image/ab67616d0000b27316295c4dd944738deaa841b2",
-      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/Lkay80m%20-%20Hypebeast%20(Official%20Music%20Video)_1080p.mp4"
-    },
-
-    {
-      "title": "Ms UP",
-      "artist": "Saint Santana",
-      "cover": "https://images.genius.com/435b4023d9b144642cf6d40d0a463989.225x225x1.jpg",
-      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/SAINT%20SANTANNA%20-%20M'S%20UP%20%5BOfficial%20Music%20Video%5D%20-%20SaintSantanna%20(1080p).mp4"
-    },
-
-    {
-      "title": "OOOWE",
-      "artist": "Hzino",
-      "cover": "https://resources.tidal.com/images/ac833f58/d86b/444e/b0ef/a24e7a29c43c/750x750.jpg",
-      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/YTMP3GG_YouTube_HZINO-OOOWE-STUDIO-FREESTYLE-EP-2-OFFICI_Media_z_irPa7PBV0_001_1080p.mp4"
-    },
-
-    
-
-    {
-      "title": "Yo Yo",
-      "artist": "Chy Cartier",
-      "cover": "https://i.scdn.co/image/ab67616d0000b273d6f53db8b6ccf267c96288f4",
-      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/Chy%20Cartier%20-%20YO%20(Official%20Lyric%20Video)%20-%20CHY%20CARTIER%20(1080p).mp4"
-    }
   ]
 }
