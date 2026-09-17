@@ -37,48 +37,41 @@
 
     
     {
-      "title": "2 da Curb",
+      "title": "2daCurb",
       "artist": "Hzino",
       "cover": "https://i.scdn.co/image/ab6761610000e5eb35835ab813f09a631f58acb6",
       "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/2dacurb.mp4"
     },
 
         {
-      "title": "Okay",
-      "artist": "Hzino",
-      "cover": "https://i.scdn.co/image/ab6761610000e5eb35835ab813f09a631f58acb6",
-      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/okay.mp4"
+      "title": "We the Ones",
+      "artist": "Beezo",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPkJQyAoA7oXR1OFP_fPiqaKO2zB-YuPMuYFArXH8F9PM8gXMNTOiMvOw&s=10",
+      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/BEEZO%20-%20WE%20THE%20ONES%20(OFFICIAL%20MUSIC%20VIDEO).mp4"
     },
 
             {
-      "title": "Dirty Lyfe",
-      "artist": "Hzino",
-      "cover": "https://i.scdn.co/image/ab6761610000e5eb35835ab813f09a631f58acb6",
-      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/dirtylyfe.mp4"
+      "title": "Lemme Know",
+      "artist": "Lkay80m",
+      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPkJQyAoA7oXR1OFP_fPiqaKO2zB-YuPMuYFArXH8F9PM8gXMNTOiMvOw&s=10",
+      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/Lkay80m%20-%20Lemme%20Know%20(Official%20Music%20Video).mp4"
     },
-
-
-                {
-      "title": "Uptown",
-      "artist": "Chy Cartier & Loski",
-      "cover": "https://i1.sndcdn.com/artworks-RlCfbtZgipgB-0-t500x500.jpg",
-      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/Loski%20%26%20Chy%20Cartier%20-%20Uptown%20%5BOfficial%20Music%20Video%5D%20%40LoskiOfficial%20%40CHYCARTIER%20%23Uptown%20-%20Loski%20Official%20(1080p).mp4"
-    },
-
-                    {
-      "title": "Swimming",
-      "artist": "Busygrr",
-      "cover": "https://m.media-amazon.com/images/I/41sbux6ZJ-L._SX354_SY354_BL0_QL100__UXNaN_FMjpg_QL85_.jpg",
-      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/BusyGrr%20-%20Swimming%20-%20BusyGrr%20(1080p).mp4"
-    },
-
 
     
+            {
+      "title": "Scales",
+      "artist": "Dopesmoke",
+      "cover": "https://i.scdn.co/image/ab67616d00001e02d8f241ac199c6afb5835731d",
+      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/Dopesmoke%20-%20Scales%20%5BMusic%20Video%5D%20_%20GRM%20Daily.mp4"
+    },
+
                 {
-      "title": "Slap me (Ukpoo)",
-      "artist": "Random Black Ting",
-      "cover": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Uxd3hwtB7TqbcQhQZGcxdV6fhRcEDa_x06PIdo6VrQ&s",
-      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/Savvy%20-%20Slap%20Me%20Again%20(Official%20Music%20Video)%20-%20Savvy%20(%20(1012p).mp4"
+      "title": "They Wanna Know",
+      "artist": "#Hoxton DoubleR x Samurai x Lil Slipz",
+      "cover": "https://i.ytimg.com/vi/VpoY49lZq9w/maxresdefault.jpg",
+      "src": "https://pub-05518bf192d443678b46742b91501c20.r2.dev/%23Hoxton%20DoubleR%20x%20Samurai%20x%20Lil%20Slipz%20-%20They%20Wanna%20Know.mp4"
     }
+
+
   ]
 }
